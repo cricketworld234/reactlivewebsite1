@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mera2nd-app/static/css/main.73a4be02.css",
+    "main.js": "/mera2nd-app/static/js/main.7b7f9f30.js",
+    "static/media/p1.jpg": "/mera2nd-app/static/media/p1.c9a6c8eff2040e2ae4b0.jpg",
+    "index.html": "/mera2nd-app/index.html",
+    "main.73a4be02.css.map": "/mera2nd-app/static/css/main.73a4be02.css.map",
+    "main.7b7f9f30.js.map": "/mera2nd-app/static/js/main.7b7f9f30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73a4be02.css",
+    "static/js/main.7b7f9f30.js"
+  ]
+}
