@@ -1,14 +1,16 @@
 {
-  "files": {
-    "main.css": "/mera2nd-app/static/css/main.73a4be02.css",
-    "main.js": "/mera2nd-app/static/js/main.7b7f9f30.js",
-    "static/media/p1.jpg": "/mera2nd-app/static/media/p1.c9a6c8eff2040e2ae4b0.jpg",
-    "index.html": "/mera2nd-app/index.html",
-    "main.73a4be02.css.map": "/mera2nd-app/static/css/main.73a4be02.css.map",
-    "main.7b7f9f30.js.map": "/mera2nd-app/static/js/main.7b7f9f30.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.73a4be02.css",
-    "static/js/main.7b7f9f30.js"
-  ]
+  "main.css": "/mera2nd-app/static/css/main.ce689a72.chunk.css",
+  "main.js": "/mera2nd-app/static/js/main.c22cec4e.chunk.js",
+  "main.js.map": "/mera2nd-app/static/js/main.c22cec4e.chunk.js.map",
+  "static/css/1.f4d00c7b.chunk.css": "/mera2nd-app/static/css/1.f4d00c7b.chunk.css",
+  "static/js/1.38aaeeb3.chunk.js": "/mera2nd-app/static/js/1.38aaeeb3.chunk.js",
+  "static/js/1.38aaeeb3.chunk.js.map": "/mera2nd-app/static/js/1.38aaeeb3.chunk.js.map",
+  "runtime~main.js": "/mera2nd-app/static/js/runtime~main.4ed06893.js",
+  "runtime~main.js.map": "/mera2nd-app/static/js/runtime~main.4ed06893.js.map",
+  "static/media/p1.jpg": "/mera2nd-app/static/media/p1.a137993b.jpg",
+  "static/css/main.ce689a72.chunk.css.map": "/mera2nd-app/static/css/main.ce689a72.chunk.css.map",
+  "static/css/1.f4d00c7b.chunk.css.map": "/mera2nd-app/static/css/1.f4d00c7b.chunk.css.map",
+  "index.html": "/mera2nd-app/index.html",
+  "precache-manifest.3cf017dcac3ba96a69a602d858317b7f.js": "/mera2nd-app/precache-manifest.3cf017dcac3ba96a69a602d858317b7f.js",
+  "service-worker.js": "/mera2nd-app/service-worker.js"
 }
